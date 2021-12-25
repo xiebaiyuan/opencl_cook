@@ -1,7 +1,13 @@
-# Simple OpenCL code for beginners;
+# Simple OpenCL Code
 
+#### CASES
+array_add : show opencl workflow
 
-thanks for:
+### Thanks:
 
-  https://github.com/KhronosGroup/OpenCL-Docs
-  https://github.com/rsnemmen/OpenCL-examples
+[OpenCL-Docs](https://github.com/KhronosGroup/OpenCL-Docs)
+[OpenCL-examples]( https://github.com/rsnemmen/OpenCL-examples)
+
+### Disclaimer
+This is only for technical sharing.
+
