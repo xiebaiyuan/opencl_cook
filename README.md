@@ -1,7 +1,8 @@
 # Simple OpenCL Code
 
 #### CASES
-array_add : show opencl workflow
+- array_add : show opencl workflow
+- profile : show cpu/gpu profile 
 
 ### Thanks:
 
